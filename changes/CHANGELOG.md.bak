@@ -2,7 +2,7 @@
 
 ## Future Work
 - Copy values from camshaft timing (the Audi TT 225 map) KFNWSE
-- Copy values for ignition timing Need to find this table again
+- Copy values for ignition timing Need to find this table again KFZW
 - Do Linearization work one last time
 
 ## Unreleased
@@ -25,4 +25,4 @@
 - Copied LAMFA from previous file (this is driver requested LAMBDA)
 
 ### Result
-- 
+- 108 -> 2474 MLHFM did not run the car at all. This was the original output of the calculator. I measured the pipes again, and I think I came up with a better measurement.

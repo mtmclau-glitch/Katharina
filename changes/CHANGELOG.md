@@ -7,6 +7,20 @@
 
 ## Unreleased
 
+## 2026-02-03 — MLHFM correction
+
+### Reason
+- Original MLHFM scaling was based on approximate housing measurements
+- Housing diameters were re-measured more accurately
+- Car was not idling correctly
+
+### Change
+- Updated MLHFM using corrected MAF housing dimensions by running MAFADJUST.exe
+- I used 60 and 73 as my inputs. I believe I underestimated the inner diameter of the old housing. This yielded a larger initial MLHFM value.
+
+### Result
+- 
+
 ## 2026-02-03 — Initial Setup
 
 ### Changes
@@ -25,4 +39,4 @@
 - Copied LAMFA from previous file (this is driver requested LAMBDA)
 
 ### Result
-- 
+- 108 -> 2474 MLHFM did not run the car at all. This was the original output of the calculator. I measured the pipes again, and I think I came up with a better measurement.
