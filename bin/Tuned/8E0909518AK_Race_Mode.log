@@ -1,0 +1,16 @@
+Edit Log for 8E0909518AK_Race_Mode.bin created by TunerPro.
+**************************************************************************
+02/03/2026 23:30:39  Table:     MLHFM changed.
+02/03/2026 23:31:25  Scalar:    VMAXNB [MPH] changed from 128.13  (0x6680) to 204.40  (0xA382).
+02/03/2026 23:35:34  Scalar:    VMAXNB [MPH] changed from 204.40  (0xA382) to 300.00  (0xEFFC).
+02/03/2026 23:35:40  Scalar:    VMAXPNG [KPH] changed from 200.01  (0x6400) to 300.00  (0x95FE).
+02/03/2026 23:35:45  Scalar:    VMAXNIV [KPH] changed from 150.01  (0x4B00) to 300.00  (0x95FE).
+02/03/2026 23:37:15  Scalar:    NMAX changed from 6800.00  (0x6A40) to 7000.00  (0x6D60).
+02/03/2026 23:37:53  Scalar:    NMAXF changed from 7100.00  (0x6EF0) to 7300.00  (0x7210).
+02/03/2026 23:38:59  Table:     MSLUB changed.
+02/03/2026 23:39:28  Table:     MSLBAS changed.
+02/03/2026 23:39:46  Scalar:    FKHABMN changed from 0.101556  (0x1A) to 0.000000  (0x00).
+02/03/2026 23:40:25  Table:     KRKTE changed.
+02/03/2026 23:53:48  Table:     KFLDRL [INVERTED] changed.
+02/03/2026 23:57:24  Table:     NDLDRAPU changed.
+02/03/2026 23:57:57  Table:     KFDMDARO changed.
