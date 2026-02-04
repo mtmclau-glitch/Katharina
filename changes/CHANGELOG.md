@@ -2,7 +2,7 @@
 
 ## Future Work
 - Copy values from camshaft timing (the Audi TT 225 map) KFNWSE
-- Copy values for ignition timing Need to find this table again
+- Copy values for ignition timing Need to find this table again KFZW
 - Do Linearization work one last time
 
 ## Unreleased
@@ -22,6 +22,7 @@
 - Set KFLDRL = 0 according to fknbrkn at nefmoto
 - Set NDLDRAPU = 9999 according to fknbrkn at nefmoto (to avoid underboost issues)
 - Disabled anti-judder KFDMDARO = 100 at highest axis load
+- Copied LAMFA from previous file (this is driver requested LAMBDA)
 
 ### Result
 - 
