@@ -17,6 +17,7 @@
 ### Change
 - Updated MLHFM using corrected MAF housing dimensions by running MAFADJUST.exe
 - I used 60 and 73 as my inputs. I believe I underestimated the inner diameter of the old housing. This yielded a larger initial MLHFM value.
+- Also updated TVUB - Injector latency. Copied this from previous tunes.
 
 ### Result
 - 
