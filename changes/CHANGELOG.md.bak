@@ -20,7 +20,7 @@
 - Also updated TVUB - Injector latency. Copied this from previous tunes.
 
 ### Result
-- 
+- The car idles! I need to drive it. Log for this is Initial.csv.
 
 ## 2026-02-03 — Initial Setup
 

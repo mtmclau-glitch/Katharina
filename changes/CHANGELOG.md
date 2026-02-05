@@ -21,6 +21,7 @@
 
 ### Result
 - The car idles! I need to drive it. Log for this is Initial.csv.
+- The car runs OK, too. Not fast, and the throttle closes at higher RPM, but it's soft and reasonable. First_Drive.csv is the log.
 
 ## 2026-02-03 — Initial Setup
 
