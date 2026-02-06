@@ -7,6 +7,32 @@
 
 ## Unreleased
 
+## 2026-02-05 - KFLDRL BACK to 0 again and raised torque limiters
+
+### Reason
+- KFLDRL should stay at zero for baselining--it was a mistake to change it so soon
+- LDRXN and KFLDHBN were probably limiting throttle plate angle due to higher boost
+
+### Change
+- Reset KFLDRL back to zero again
+- Raised LDRXN to keep it from limiting throttle (outside of reach of the turbo for now)
+- Raised KFLDHBN to keep it from limiting throttle (outside of reach of the turbo for now)
+
+### Result
+- 
+
+## 2026-02-04 - KFLDRL back to stock
+
+### Reason
+- KFLDRL had been zero for baselining. Set to stock for further characterization.
+
+### Change
+- Reset KFLDRL back to stock (guidance from nefmoto)
+
+### Result
+- Did not Run this yet
+- Advice from nefmoto superceded this change
+
 ## 2026-02-03 — MLHFM correction
 
 ### Reason
