@@ -7,6 +7,20 @@
 
 ## Unreleased
 
+
+## 2026-02-07 - MLHFM Scaling Correction - Branch Merlin
+
+### Reason
+- MAF Scaling seems wrong. Model doesn't match and fra_w is .912. Will attempt to scale MLHFM down by revising measurement of MAF housing down 1 mm. Interior geometry of housing suggests this is a reasonable step.
+
+### Change
+- Set MLHFM back to stock
+- Ran MAFADJUST.exe with I used 60 and 72 as inputs
+- Set the ME7Logger config to capture current Lambda with lamsoni_w
+
+### Result
+- 
+
 ## 2026-02-05 - KFLDRL BACK to 0 again and raised torque limiters
 
 ### Reason

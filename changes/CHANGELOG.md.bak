@@ -19,7 +19,10 @@
 - Raised KFLDHBN to keep it from limiting throttle (outside of reach of the turbo for now)
 
 ### Result
-- 
+- Great success!
+- msdk_w and mshfm_w divergence happened at a higher RPM (around 5,500) (I'm not sure why it was different.)
+- Throttle plate did not close on me
+- fra_w was better today (.912) than yesterday (.873), but still not great.
 
 ## 2026-02-04 - KFLDRL back to stock
 
