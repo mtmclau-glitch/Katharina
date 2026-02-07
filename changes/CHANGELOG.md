@@ -7,6 +7,22 @@
 
 ## Unreleased
 
+## 2026-02-07 - MLHFM adjustment 72->73mm
+
+### Reason
+- msdk_w and mshfm_w divergence
+- Left-foot braking was disabled by reset to stock, and I forgot to reenable
+
+### Change
+- Reset MLHFM to stock
+- Reran MAFADJUST.exe with parameters 60 and 74 (instead of 60 and 73)
+- NWPMBBR - set to maximum (to enable left-foot-braking)
+- VWPMBBR - set to maximum (to enable left-foot-braking)
+
+### Result
+- 
+
+
 ## 2026-02-05 - KFLDRL BACK to 0 again and raised torque limiters
 
 ### Reason

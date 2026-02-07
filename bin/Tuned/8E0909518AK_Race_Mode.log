@@ -21,3 +21,7 @@ Edit Log for 8E0909518AK_Race_Mode.bin created by TunerPro.
 02/05/2026 22:36:12  Table:     KFLDRL [INVERTED] changed.
 02/05/2026 22:43:40  Table:     LDRXN [PSI] changed.
 02/05/2026 23:17:59  Table:     KFLDHBN PSI changed.
+02/07/2026 10:32:01  Table:     MLHFM changed.
+02/07/2026 10:33:36  Scalar:    NWPMBBR changed from 1200.0  (0x1E) to 10200.0  (0xFF).
+02/07/2026 10:33:53  Scalar:    VWPMBBR changed from 3.75  (0x03) to 318.75  (0xFF).
+02/07/2026 10:39:08  Table:     MLHFM changed.
