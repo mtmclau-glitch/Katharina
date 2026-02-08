@@ -20,7 +20,7 @@
 - VWPMBBR - set to maximum (to enable left-foot-braking)
 
 ### Result
-- 
+- This seemed to push fra_w even lower. Probably not good.
 
 
 ## 2026-02-05 - KFLDRL BACK to 0 again and raised torque limiters
