@@ -7,6 +7,18 @@
 
 ## Unreleased
 
+## 2026-02-08 - KFMIOP Load Axis Increased
+
+### Reason
+- Increasing load axis due to larger turbo
+
+### Change
+- Increased load axis for KFMIOP to match the previously good tune
+- Increased Z axis values in KFMIOP to match that file too, which mostly matched the community tune v1 file
+
+### Result
+-
+
 ## 2026-02-07
 
 ### Reason

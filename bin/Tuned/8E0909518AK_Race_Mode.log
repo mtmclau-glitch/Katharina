@@ -24,3 +24,5 @@ Edit Log for 8E0909518AK_Race_Mode.bin created by TunerPro.
 02/07/2026 21:07:22  Scalar:    NWPMBBR changed from 1200.0  (0x1E) to 10200.0  (0xFF).
 02/07/2026 21:07:36  Scalar:    VWPMBBR changed from 3.75  (0x03) to 318.75  (0xFF).
 02/07/2026 22:38:02  Scalar:    NMAXOG changed from 6800.00  (0x6A40) to 7000.00  (0x6D60).
+02/08/2026 17:09:02  Table:     KFMIOP ZWOP LOAD AXIS -  SRL11OPUW changed.
+02/08/2026 17:09:15  Table:     KFMIOP changed.

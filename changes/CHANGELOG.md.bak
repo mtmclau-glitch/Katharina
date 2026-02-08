@@ -19,7 +19,8 @@
 - NMAXOG - set to 7000
 
 ### Result
-- 
+- Rev limiter seems higher, but Engine Torque follows rlmax_w until 5,300 (good behavior) before switching to follow rlsol_w (meh behavior)
+- This may be due to KFMIOP limitations - I may need to increase the load axis
 
 ## 2026-02-05 - KFLDRL BACK to 0 again and raised torque limiters
 
