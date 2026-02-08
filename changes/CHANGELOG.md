@@ -7,6 +7,19 @@
 
 ## Unreleased
 
+## 2026-02-07
+
+### Reason
+- Forgot to raise rev limiter NMAXOG, so limiter was still 6800
+
+### Change
+- NMAXOG raised to 7000
+- NWPMBBR - Minimum RPM for left foot braking raised to max for left-foot braking
+- VWPMBBR - Minimum speed for left foot braking raised to max for left-foot braking
+
+### Result
+- 
+
 ## 2026-02-05 - KFLDRL BACK to 0 again and raised torque limiters
 
 ### Reason
