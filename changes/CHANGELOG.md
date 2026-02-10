@@ -7,6 +7,18 @@
 
 ## Unreleased
 
+## 2026-02-09 - MLHFM Scaled down 2%
+
+### Reason
+- MAF scaling wasn't matching the model and was significantly higher than the model
+
+### Change
+- Decreased MAF table at the 140 g/s region and up by scaling the highest point by multiplying it by 0.98 and then interpolating starting at 140 g/s
+- Note that this required the use of the MLHFM table that had g/s in it and not just raw values - this could be totally wrong, but it's a place to start
+
+### Result
+-
+
 ## 2026-02-08 - KFMIOP Load Axis Increased
 
 ### Reason

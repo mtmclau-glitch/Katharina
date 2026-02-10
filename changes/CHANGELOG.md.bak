@@ -17,7 +17,9 @@
 - Increased Z axis values in KFMIOP to match that file too, which mostly matched the community tune v1 file
 
 ### Result
--
+- The car appeared to run significantly better
+- The throttle did close, but that was right at the end
+- msdk_w and mshfm_w diverged again, but after the divergence, they tracked in the same direction -- this might be good
 
 ## 2026-02-07
 
