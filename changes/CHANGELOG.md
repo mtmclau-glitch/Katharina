@@ -15,9 +15,15 @@
 ### Change
 - Decreased MAF table at the 140 g/s region and up by scaling the highest point by multiplying it by 0.98 and then interpolating starting at 140 g/s
 - Note that this required the use of the MLHFM table that had g/s in it and not just raw values - this could be totally wrong, but it's a place to start
+- Later, I scaled MAF down one more time by the same 0.98 using the same technique as above and called it Outing
+- Notably, I chose to inflect a little earlier - Down around 120 g/s - But I did NOT keep this change (see next bullet)
+-- What I did instead of keeping the change was to keep the same upper value (the very highest value was still, effectively 0.96 of its original value)
+-- I restored the 120-130 g/s range to what it was before and choosing the ~130 or 140 point for the new deflection.
 
 ### Result
--
+- msdk_w and mshfm_w diverged again
+- fra_w is dead-on - Does this mean the MAF scaling is getting better?
+- I still need to drive the car with the very latest changes where the MLHFM g/s graph was changed to restore 120-130 g/s behavior but that had the second drop in MLHFM at top
 
 ## 2026-02-08 - KFMIOP Load Axis Increased
 
