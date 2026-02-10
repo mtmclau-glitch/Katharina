@@ -7,7 +7,7 @@
 
 ## Unreleased
 
-## 2026-02-09 - MLHFM Scaled down 2%
+## 2026-02-09 - MLHFM Scaled down 2% (twice)
 
 ### Reason
 - MAF scaling wasn't matching the model and was significantly higher than the model
