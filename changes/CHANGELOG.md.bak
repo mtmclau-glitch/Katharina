@@ -7,6 +7,17 @@
 
 ## Unreleased
 
+## 2026-02-10 - KFLDRL normalized
+
+### Reason
+- It's time to see how the car behaves with some N75 behavior
+
+### Change
+- I reverted KFLDRL from 0 to stock
+
+### Result
+-
+
 ## 2026-02-09 - MLHFM Scaled down 2% (twice)
 
 ### Reason

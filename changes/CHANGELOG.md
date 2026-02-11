@@ -16,7 +16,10 @@
 - I reverted KFLDRL from 0 to stock
 
 ### Result
--
+- The car ran pretty well
+- I observed a few oscillations in WGDC and boost
+- Power delivery flattened out momentarily between ~4,500 and 5,000 RPM
+- Boost stayed well-under-controll and never spiked but it was a bit low
 
 ## 2026-02-09 - MLHFM Scaled down 2% (twice)
 
