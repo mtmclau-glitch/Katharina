@@ -20,7 +20,9 @@
 -- I believe that KFLDHBN just needs to exceed LDRXN (at least a little bit) so that it doesn't become the dominant limiter
 
 ### Result
--
+- Bad. Sad. Not glad.
+- Oscillations got worse
+- Will revert to a previous commit.
 
 ## 2026-02-10 - KFLDRL normalized
 
