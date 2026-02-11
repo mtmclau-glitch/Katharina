@@ -7,6 +7,21 @@
 
 ## Unreleased
 
+## 2026-02-10 - Load Lowered
+
+### Reason
+- Overboost may have been related to spike at top end of LDRXN
+
+### Change
+- Lower the top of LDRXN to keep the engine from requesting excess boost
+-- If you take a look at the boost graph, it's pretty much flat and consistent until the very end where the ECU suddenly requests a ton of boost and it provideth
+- I also raised LDRXN everywhere below by changing the LDRXN PSI table to 20 for a long string (up to, and including, the very end of the table)
+- I also raised KFLDHBN to match LDRXN in most places, then interpolated Y across to the last four columns
+-- I believe that KFLDHBN just needs to exceed LDRXN (at least a little bit) so that it doesn't become the dominant limiter
+
+### Result
+-
+
 ## 2026-02-10 - KFLDRL normalized
 
 ### Reason
@@ -16,7 +31,12 @@
 - I reverted KFLDRL from 0 to stock
 
 ### Result
--
+- The car ran pretty well
+- I observed a few oscillations in WGDC and boost
+- Power delivery flattened out momentarily between ~4,500 and 5,000 RPM
+- Boost stayed well-under-controll and never spiked but it was a bit low
+- A second run where I logged ignition timing showed OK timing, but the car had more trouble controling the turbo
+- The engine threw a CEL for overboost after maxing out the pressure sensor a few times--stay below 22 psi
 
 ## 2026-02-09 - MLHFM Scaled down 2% (twice)
 
