@@ -7,6 +7,22 @@
 
 ## Unreleased
 
+## 2026-02-12 - Linearization work Copied
+
+### Reason
+- To control boost
+- Also, I lowered LDRXN to more realistic values to further control things
+
+### Change
+- First, I lowered LDRXN to some values that were slightly above what the car can achieve at lower RPMs - values were derived from logs
+-- They are quite low, but it's OK to try this for now
+- I then copied over KFLDIMX from the January tune along with the axis values
+- I also copied over KFLDRL along with any necessary axis changes
+- Note that there are three binaries now--one has the exact same KFLDRL table as before, one has one where low RPM values are all 95, and one where I didn't make KFL changes and only made LDRXN changes
+
+### Result
+-
+
 ## 2026-02-10 - Load Lowered
 
 ### Reason
