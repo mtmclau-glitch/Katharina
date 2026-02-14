@@ -24,7 +24,7 @@
 - It seemed fine
 - I ran it with the plussed up setup so far (have not tried the others)
 - Power still surged a little as it climbed but very minimal
-
+- It looks like KFLDRL didn't actually copy right - fixed it
 
 ## 2026-02-10 - Load Lowered
 

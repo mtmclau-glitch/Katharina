@@ -25,6 +25,9 @@
 - I ran it with the plussed up setup so far (have not tried the others)
 - Power still surged a little as it climbed but very minimal
 - It looks like KFLDRL didn't actually copy right - fixed it
+- Oscillations happen now in the wastegate where they were well controlled before
+- It didn't feel terrible, but it wasn't doing what it was supposed to
+- Need to get the oscillations under control on the dyno
 
 ## 2026-02-10 - Load Lowered
 
