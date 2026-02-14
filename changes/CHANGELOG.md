@@ -21,7 +21,10 @@
 - Note that there are three binaries now--one has the exact same KFLDRL table as before, one has one where low RPM values are all 95, and one where I didn't make KFL changes and only made LDRXN changes
 
 ### Result
--
+- It seemed fine
+- I ran it with the plussed up setup so far (have not tried the others)
+- Power still surged a little as it climbed but very minimal
+
 
 ## 2026-02-10 - Load Lowered
 
